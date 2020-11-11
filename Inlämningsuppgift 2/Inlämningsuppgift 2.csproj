@@ -6,9 +6,4 @@
     <RootNamespace>Inlämningsuppgift_2</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\Karlus\OneDrive\Skrivbord\inlämningsupffigt2.cs" Link="inlämningsupffigt2.cs" />
-    <Compile Include="C:\Users\Karlus\OneDrive\Skrivbord\iu2.txt" Link="iu2.txt" />
-  </ItemGroup>
-
 </Project>

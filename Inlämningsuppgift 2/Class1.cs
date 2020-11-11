@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Inlämningsuppgift_2
+﻿namespace Inlämningsuppgift_2
 {
-    class Calculator
+  class Calculator
     {
         public static int Addition(int a, int b)
         {
